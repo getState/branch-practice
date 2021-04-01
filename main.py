@@ -1,2 +1,3 @@
 # print function on stem branch
-print('hello, python on stem!')
+for _ in range(10):
+    print('hello, python on stem!')
